@@ -1,0 +1,27 @@
+<style>
+  h1 {
+    color: green;
+  }
+
+  div {
+    width: 300px;
+
+    & p {
+      color: gray;
+
+      & span {
+        color: red;
+      }
+
+      & span:last-child {
+        color: blue;
+      }
+    }
+  }
+</style>
+
+<h1>Hello world!</h1>
+
+<div>
+  <p>CSS is <span>awes</span><span>ome</span></p>
+</div>
