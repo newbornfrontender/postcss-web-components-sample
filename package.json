@@ -11,5 +11,18 @@
     "start": "rollup -c -w",
     "build": "rollup -c",
     "watch": "serve output"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "postcss": "^7.0.7",
+    "postcss-html": "^0.34.0",
+    "postcss-load-config": "^2.0.0",
+    "postcss-preset-env": "^6.5.0",
+    "postcss-syntax": "^0.34.0",
+    "prettier": "^1.15.3",
+    "rollup": "^0.68.1",
+    "rollup-plugin-node-resolve": "^4.0.0",
+    "rollup-pluginutils": "^2.3.3",
+    "serve": "^10.1.1"
   }
 }
