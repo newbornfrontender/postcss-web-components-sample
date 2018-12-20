@@ -5,5 +5,11 @@
   "repository": "https://github.com/newbornfrontender/postcss-web-components-sample.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "format": "prettier --write **/*.{html,css,js}",
+    "start": "rollup -c -w",
+    "build": "rollup -c",
+    "watch": "serve output"
+  }
 }
