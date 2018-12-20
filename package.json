@@ -1,0 +1,9 @@
+{
+  "name": "postcss-web-components-sample",
+  "version": "1.0.0",
+  "description": "PostCSS in Web Components",
+  "repository": "https://github.com/newbornfrontender/postcss-web-components-sample.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
