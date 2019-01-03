@@ -1256,10 +1256,10 @@ postcss-selector-parser@^5.0.0-rc.3, postcss-selector-parser@^5.0.0-rc.4:
     indexes-of "^1.0.1"
     uniq "^1.0.1"
 
-postcss-syntax@0.36.0:
-  version "0.36.0"
-  resolved "https://registry.yarnpkg.com/postcss-syntax/-/postcss-syntax-0.36.0.tgz#9d3d48d25d9feb9903e283690e72dc1925d39952"
-  integrity sha512-n5Dfl1wBSoJWxymDns0NvTrw+TDZi/56DexLRXWOZ+HhxAl/DOtXdvWstFvx9mxHh5fsUfQ93cakCVy8E8JVuw==
+postcss-syntax@0.36.2:
+  version "0.36.2"
+  resolved "https://registry.yarnpkg.com/postcss-syntax/-/postcss-syntax-0.36.2.tgz#f08578c7d95834574e5593a82dfbfa8afae3b51c"
+  integrity sha512-nBRg/i7E3SOHWxF3PpF5WnJM/jQ1YpY9000OaVXlAQj6Zp/kIqJxEDWIZ67tAd7NLuk7zqN4yqe9nc0oNAOs1w==
 
 postcss-value-parser@^3.3.1:
   version "3.3.1"
