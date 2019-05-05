@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "del": "4.1.1",
-    "postcss": "7.0.14",
+    "postcss": "7.0.16",
     "postcss-html": "0.36.0",
     "postcss-load-config": "2.0.0",
     "postcss-preset-env": "6.6.0",
